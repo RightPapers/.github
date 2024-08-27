@@ -43,7 +43,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="60" height="60"/> 
 </div>
 
-## 🧑🏻‍💻팀 소개
+## 🧑🏻‍💻팀원 소개
 <table>
   <tbody>
     <tr>
