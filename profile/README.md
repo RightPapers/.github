@@ -9,6 +9,27 @@
 
 #### 대중들이 더 나은 판단력을 갖출 수 있도록 돕고자 합니다.
 
+## ⭐ 기능 소개
+- 유튜브 영상의 URL을 입력하여 영상의 신뢰성을 검증합니다
+- 영상 분석 결과와 관련 기사를 확인할 수 있습니다
+- 분석 결과에 대한 사용자 피드백을 서버로 전달합니다
+- 분석을 요청한 모든 영상의 기록을 확인할 수 있습니다
+
+<table>
+  <tbody>
+    <tr>
+      <td align="center"><img src="https://github.com/user-attachments/assets/7adb3ad0-481a-4fff-b426-254ad5927139" width="240px;" alt="main"/><br /><sub><b>1. 영상 URL 입력</b></sub><br /></td>
+      <td align="center"><img src="https://github.com/user-attachments/assets/ef60aa34-46ba-4034-83a3-c7031f765d3a" width="240px;" alt="result"/><br /><sub><b>2. 분석 결과</b></sub><br /></td>
+    <tr/>
+    <tr>
+      <td align="center"><img src="https://github.com/user-attachments/assets/f7dcdaa7-e40d-494a-9eed-e54ff6af10c7" width="240px;" alt="이상혁"/><br /><sub><b>3. 분석 피드백</b></sub><br /></td>
+      <td align="center"><img src="https://github.com/user-attachments/assets/f076ee09-5c1d-4e07-ad2a-acb121e2280c" width="240px;" alt="이상혁"/><br /><sub><b>4. 분석 기록</b></sub><br /></td>
+    </tr>
+  </tbody>
+</table>
+
+
+
 ## ⚙️ 기술 스택
 ### AI
 <div>
@@ -43,7 +64,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="60" height="60"/> 
 </div>
 
-## 🧑🏻‍💻팀원 소개
+## 🧑🏻‍💻 팀원 소개
 <table>
   <tbody>
     <tr>
