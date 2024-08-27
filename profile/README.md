@@ -42,3 +42,18 @@
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="60" height="60"/> 
 </div>
+
+## 🧑🏻‍💻팀 소개
+<table>
+  <tbody>
+    <tr>
+      <td align="center"><a href="https://github.com/Sangvierr"><img src="https://avatars.githubusercontent.com/u/165464507?v=4" width="120px;" alt="이상혁"/></a><br /><sub><b>이상혁 (AI)</b></sub><br /></td>
+      <td align="center"><a href="https://github.com/Ahnsaeyeon"><img src="https://avatars.githubusercontent.com/u/127393133?v=4" width="120px;" alt="안세연"/></a><br /><sub><b>안세연 (Front)</b></sub><br /></td>
+      <td align="center"><a href="https://github.com/jieun0824"><img src="https://avatars.githubusercontent.com/u/86359553?v=4" width="120px;" alt="박지은"/></a><br /><sub><b>박지은 (Front)</b></sub><br /></td>
+     <tr/>
+      <td align="center"><a href="https://github.com/2uwls"><img src="https://avatars.githubusercontent.com/u/101469780?v=4" width="120px;" alt="이유진"/></a><br /><sub><b>이유진 (Back)</b></sub><br /></td>
+      <td align="center"><a href="https://github.com/Jubroooo"><img src="https://avatars.githubusercontent.com/u/127478342?v=4" width="120px;" alt="이주형"/></a><br /><sub><b>이주형 (Back)</b></sub><br /></td>
+      <td align="center"><a href="https://github.com/b0xercat"><img src="https://avatars.githubusercontent.com/u/97675977?v=4" width="120px;" alt="권서"/></a><br /><sub><b>권서진 (Front)</b></sub><br /></td>
+    </tr>
+  </tbody>
+</table>
